@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-ESCAPEWDW-1.0";
 const contentToCache = [
-    "Build/e622c4d2d90fc816cd89666df533ab9c.loader.js",
+    "Build/4dfe85328de309180d93ade00e5239cb.loader.js",
     "Build/644b4b17f789d70a957727fd8731ab14.framework.js",
-    "Build/0285d2dad32e921935823c4d55b0d9df.data",
-    "Build/2763a13998a508612fb446c43e191a83.wasm",
+    "Build/786c4e04dd14d124332ae067a2662b5a.data",
+    "Build/50b110b05b067e06e4a4e965c4bbf9e9.wasm",
     "TemplateData/style.css"
 
 ];
